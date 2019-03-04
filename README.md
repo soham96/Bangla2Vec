@@ -1,5 +1,6 @@
 # Bangla2Vec
-
+Language Modelling and Classification in the Bengali Language
+---
 <p align="center">
 <img src="https://github.com/soham96/Bangla2Vec/blob/master/img/bangla2vec.png" width="450" height="300" />
 </p>
