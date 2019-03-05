@@ -13,6 +13,28 @@ Bangla2Vec is an open source project for modelling the Bengali Language. The mod
 - Trained a skipgram model on wikipedia dataset: [Training Script](wikipedia_embeddings.ipynb) | [Results](wikipedia_embeddings.ipynb) | [Model](https://drive.google.com/file/d/1EzKo9jcF1Q-8qBQotJj_z2CdAJXepPtO/view?usp=sharing)
 - Scripts to scrape data from Bengali news websites: [Github Repo](https://github.com/soham96/bengali_news_crawler)
 
+## Results
+
+#### Words most similar to the word chele (boy)
+<p align="center">
+<img src="https://github.com/soham96/Bangla2Vec/blob/master/img/most_similar.png" width="500" height="200" />
+</p>
+
+#### Father + Girl - Boy = Mother
+<p align="center">
+<img src="https://github.com/soham96/Bangla2Vec/blob/master/img/father_mother.png" width="600" height="200" />
+</p>
+
+#### Odd one out
+<p align="center">
+<img src="https://github.com/soham96/Bangla2Vec/blob/master/img/odd_one_out.png" width="700" height="100" />
+</p>
+
+#### Bengali's Love Sweets!
+<p align="center">
+<img src="https://github.com/soham96/Bangla2Vec/blob/master/img/bengali_sweet.png" width="700" height="100" />
+</p>
+
 ## Data
 
 Data was scraped from multiple online Bengali news websites.
@@ -32,3 +54,8 @@ This project is a sister project of other projects working on IndicNLP. They inc
 - [Tamil](https://github.com/vanangamudi/tamil-news-classification/tree/master/anikattu)
 
 To get resources to start working on IndicNLP or to learn more about it, you can see our [Awesome List](https://github.com/vanangamudi/awesome-resources-for-indic-nlp) of resources
+
+## Future Work
+- [x] Build a word2vec model
+- [ ] Build a UlmFit model
+- [ ] Get translation data
