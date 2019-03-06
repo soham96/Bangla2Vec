@@ -5,6 +5,8 @@ Language Modelling and Classification in the Bengali Language
 <img src="https://github.com/soham96/Bangla2Vec/blob/master/img/bangla2vec.png" width="450" height="300" />
 </p>
 
+> **Announcement**: I will be giving a talk at IEM, Kolkata this Saturday about this work. The event link is [here](https://www.facebook.com/events/576345839499623/permalink/577270706073803/). Hope to see you there!!!
+
 Bangla2Vec is an open source project for modelling the Bengali Language. The models released here can be used for a variety of tasks like [classification](https://github.com/soham96/Bengali_news_classifier) and translation. Furthermore, all the data and models are opensourced so you can train your own model or use the pretrained models for your own tasks.
 
 ## Releases
